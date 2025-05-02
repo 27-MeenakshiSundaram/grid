@@ -88,6 +88,7 @@ body {
 .right {
   display: grid;
   grid-template-rows: 2fr 1fr;
+  
 }
 
 .layout {
@@ -95,6 +96,8 @@ body {
   display: flex;
   align-items: center;
   font-weight: bold;
+  text-align: center;
+  justify-content: center;
 }
 
 .grid7 {
